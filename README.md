@@ -23,3 +23,12 @@ IT & AI Prompt Engineering · Systems Analysis · Applied Research
 ## Repository Structure
 
 > Detailed implementations and research artifacts are maintained in private repositories and can be shared for evaluation purposes.
+
+
+## Projects
+
+### [AI Output Validation Framework](./projects/ai-output-validation/)
+Systematic post-generation verification of AI outputs through exhaustive 
+claim enumeration. Applied to research reports, CV validation, and 
+Legal-Tech document analysis.  
+Validated reliability improvement: 1.0 → 0.48 (22-claim case study).
