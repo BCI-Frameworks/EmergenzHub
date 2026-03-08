@@ -16,7 +16,7 @@ This repository serves as:
 IT & AI Prompt Engineering · Systems Analysis · Applied Research
 
 📄 **Curriculum Vitae:**
-→ [Bilgin_Can_Isikoglu_CV_EN.pdf] (education/Bilgin_Can_Isikoglu_CV_EN.pdf)
+→ education/Bilgin_Can_Isikoglu_CV_EN.pdf
 
 ---
 
