@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "title": "Analyse Unterrichtsstruktur – Modul Coding",
+    "version": "1.0",
+    "erstellt_am": "2025-11-14"
+  },
+  "kern_erkenntnis": {
+    "zusammenfassung": "Die Aufgaben im Modul Coding prüfen Fähigkeiten, ohne die dafür notwendigen Wissensgrundlagen zu vermitteln. Der Unterricht verzichtet auf systematischen Kompetenzaufbau und ersetzt Lehre durch latente Selektion.",
+    "art": "didaktisch-psychologische Diagnose"
+  },
+  "struktur": {
+    "feststellungen": {
+      "1": {
+        "beschreibung": "Aufgaben setzen voraus, was nicht vermittelt wurde.",
+        "details": [
+          "Iteration",
+          "Kontrollstrukturen",
+          "Indexarithmetik",
+          "Zeichenmanipulation",
+          "Sortierlogik",
+          "Primzahltests",
+          "Lookahead/Lookbehind",
+          "Rekursion (bei Combination Sum)"
+        ]
+      },
+      "2": {
+        "beschreibung": "Der Unterricht prüft Kompetenzen statt sie aufzubauen.",
+        "indikatoren": [
+          "Fehlen von Beispielaufgaben",
+          "Fehlen von Modellierung (Vormachen)",
+          "Fehlen eines Grundlagenblocks",
+          "Unmittelbare Konfrontation mit Transferaufgaben"
+        ]
+      },
+      "3": {
+        "beschreibung": "Selektionslogik statt pädagogischer Entwicklung.",
+        "wirkung": [
+          "Schüler ohne Vorwissen scheitern systematisch",
+          "Erfolg wird als Talent gedeutet",
+          "Scheitern wird als Unfähigkeit interpretiert"
+        ]
+      },
+      "4": {
+        "beschreibung": "Fehlattribution der Ursache für Lernerfolg/-misserfolg.",
+        "beobachtungen": [
+          "Lehrer attribuiert nicht verinnerlichtes Wissen als mangelndes Talent",
+          "Lernende entwickeln maladaptive Selbstbewertungen",
+          "Wissenslücken werden personalisiert statt didaktisch erklärt"
+        ]
+      },
+      "5": {
+        "beschreibung": "Widerspruch zu didaktischen Grundprinzipien.",
+        "verletzte_prinzipien": [
+          "Scaffolding",
+          "progressiver Kompetenzaufbau",
+          "transparente Lernziele",
+          "kognitive Entlastung (Cognitive Load Theory)",
+          "förderorientierte Didaktik"
+        ]
+      }
+    }
+  },
+  "psychologische_wirkungen": {
+    "kognitiv": [
+      "Überlastung",
+      "fehlende Struktur zur Wissensverarbeitung",
+      "fehlende Orientierung im Lerngegenstand"
+    ],
+    "emotional": [
+      "Resignation",
+      "Selbstzweifel",
+      "Gefühl von Unzulänglichkeit",
+      "Überforderung"
+    ],
+    "verhaltensbezogen": [
+      "Rückzug",
+      "Lernblockaden",
+      "Vermeidungsverhalten",
+      "Abbruchgedanken"
+    ]
+  },
+  "konsequenzen": {
+    "für_unterrichtsqualität": [
+      "fehlender Kompetenzaufbau",
+      "fehlende Differenzierung",
+      "kein Lerntransfer möglich"
+    ],
+    "für_schülerentwicklung": [
+      "verzerrte Leistungsattribution",
+      "fehlender Lernerfolg trotz hoher Motivation",
+      "systematische Entmutigung"
+    ]
+  },
+  "kategorien_der_aufgaben": {
+    "algorithmische_kontrollstrukturen": {
+      "aufgaben": [
+        "FirstFactorial (iterativ)",
+        "FirstReverse",
+        "PrimeTime",
+        "RunLength",
+        "LongestWord",
+        "PrimeMover",
+        "LetterChanges",
+        "SimpleAdding",
+        "Divide Integer",
+        "ExOh",
+        "LetterCapitalize",
+        "AlphabetSoup",
+        "CheckNums",
+        "SimpleSymbols",
+        "TimeConvert",
+        "VowelCount",
+        "WordCount",
+        "Palindrome"
+      ],
+      "beschreibung": "Alle Aufgaben prüfen Schleifen, Bedingungen, Zähler, Indexarithmetik, String-Verarbeitung – ohne vorherigen Grundlagenunterricht."
+    },
+    "rekursion_backtracking": {
+      "aufgaben": [
+        "CombinationSum"
+      ],
+      "beschreibung": "Einziges rekursives Problem im Set – Niveau deutlich über Einsteigerlevel."
+    }
+  },
+  "schlussfolgerung": {
+    "kernaussage": "Das Unterrichtsziel erscheint verfehlt, da nicht Wissen vermittelt, sondern vorhandene Fähigkeiten abgeprüft werden.",
+    "didaktische_einordnung": "Der Kurs produziert keine Lernkurve, sondern eine Selektionskurve.",
+    "handlungsbedarf": [
+      "Einführung eines Grundlagenblocks",
+      "Erklärung von Kontrollstrukturen",
+      "Einführung in algorithmische Basisprozesse",
+      "Transparente Lernziele",
+      "Modellierte Beispiele vor eigentlicher Anwendung"
+    ]
+  }
+}
+

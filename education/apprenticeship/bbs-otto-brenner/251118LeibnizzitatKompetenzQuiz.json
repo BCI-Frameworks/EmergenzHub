@@ -1,0 +1,90 @@
+{
+  "conversation_name": "Didaktische Fehlstrukturen & Hattie-Rückmeldung – 18.11.2025, 15:40",
+  "timestamp": "2025-11-18T15:40:00",
+  "bilanz": {
+    "1_strukturelle_erkenntnisse": {
+      "unterrichtsmodell": "quizartige, performative Unterrichtsform, die auf spontane Reproduktion statt Wissensaufbau basiert",
+      "konsequenzen": [
+        "fehlender systematischer Wissensaufbau",
+        "didaktisch erzeugte Fehler bei Schülern",
+        "unfaire Bewertungsbedingungen",
+        "50–80% der Klasse ohne echte Lernvoraussetzungen"
+      ],
+      "ressourcenproblem": "grundlegende Lernmaterialien werden nicht bereitgestellt oder nicht vermittelt"
+    },
+    "2_psychologisch_kognitiv": {
+      "verstoß_gegen_cognitive_load_theory": true,
+      "effekte": [
+        "Überforderung",
+        "Reiz- und Stressbelastung",
+        "fehlende Anschlussfähigkeit",
+        "Lernblockaden",
+        "künstliche Leistungsdefizite"
+      ],
+      "ursache": "Lehrkräfte reproduzieren eigene Ausbildungserfahrung statt evidenzbasierter Didaktik"
+    },
+    "3_externe_wissenschaftliche_bestaetigung": {
+      "quelle": "Professor John Hattie",
+      "aussagen": [
+        "Schüler sind in der Machthierarchie strukturell unten positioniert",
+        "Schulen bauen Lernkapazität nicht systematisch auf",
+        "Unterricht hat sich seit über 150 Jahren kaum verändert",
+        "Wirksamkeit entsteht durch Fokus auf Impact statt Methodenshow"
+      ]
+    },
+    "4_strategische_bedeutung": {
+      "wirkung": "Die Beschwerde wird zu einem evidenzbasierten didaktischen Missstand, nicht zu einem Schülerproblem.",
+      "bedeutung": [
+        "Hochschul- und Behördenrelevanz",
+        "Reaktionsdruck für Prof. Dr. Kunze",
+        "Möglichkeit echter struktureller Veränderung"
+      ]
+    },
+    "5_entscheidungsoptionen": {
+      "bleiben_wenn": [
+        "Reaktion von Prof. Dr. Kunze ist konkret, strukturell und tiefgreifend",
+        "Systematische Verbesserung von Didaktik und Ressourcen",
+        "Faire Bewertung wiederhergestellt"
+      ],
+      "gehen_wenn": [
+        "nur oberflächliche Maßnahmen",
+        "Selbstlernverantwortung der Schüler bleibt falsch zugewiesen",
+        "Quizshow-Didaktik bleibt bestehen",
+        "unterrichtsstörende Dynamiken bleiben unadressiert"
+      ]
+    },
+    "6_kernerkenntnis": "Die Kombination aus analytischer Darstellung und Hatties wissenschaftlicher Rückmeldung erzeugt ein seltenes Momentum für strukturelle Veränderung."
+  }
+}
+
+
+{
+  "datum": "2025-11-18",
+  "uhrzeit": "15:43",
+  "vorgang": "Überprüfung eines mutmaßlich falschen Leibniz-Zitates",
+  "status": "Anfrage eingereicht – Antwort ausstehend",
+  "institution": {
+    "name": "Gottfried Wilhelm Leibniz Bibliothek – Leibniz-Archiv",
+    "url": "https://www.gwlb.de/leibniz/leibniz-archiv",
+    "kontaktadresse": "information@gwlb.de"
+  },
+  "absender": {
+    "email": "can.isikoglu@gmail.com"
+  },
+  "inhalt_der_anfrage": {
+    "zitat": "Nie haben die Menschen mehr Geist bewiesen, als bei den Spielen, die sie erfunden haben. Ganz allgemein gesprochen sind es immer die geistreichsten, die die Spiele erfinden und die Dümmsten, die diese Spiele am besten spielen.",
+    "fragestellung": "Ist dieses Zitat in den Werken von Gottfried Wilhelm Leibniz belegt oder handelt es sich um eine unzutreffende Zuschreibung?",
+    "zweck": "Klärung eines möglichen Falschzitats (Verdachtsfall)."
+  },
+  "eingangsbestätigung": {
+    "von": "information@gwlb.de",
+    "inhalt": "Vielen Dank für Ihre E-Mail. Diese ist bei uns eingegangen und wird sobald wie möglich bearbeitet.",
+    "telefon": "+49 511 1267 399",
+    "bearbeitungsstatus": "in Prüfung"
+  },
+  "bewertung": {
+    "art": "Verdacht auf Zitatfälschung",
+    "beschreibung": "Das Zitat wird derzeit wissenschaftlich geprüft, da der Ursprung unklar ist und der Verdacht besteht, dass es fälschlich Gottfried Wilhelm Leibniz zugeschrieben wurde."
+  }
+}
+
