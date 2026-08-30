@@ -1,0 +1,68 @@
+object Form1: TForm1
+  Left = 1135
+  Height = 620
+  Top = 155
+  Width = 565
+  Caption = 'Steuerung'
+  ClientHeight = 620
+  ClientWidth = 565
+  Color = 8158430
+  OnClick = Button2Click
+  LCLVersion = '2.2.0.4'
+  object Zone: TBevel
+    Left = 0
+    Height = 400
+    Top = 0
+    Width = 825
+  end
+  object Shape1: TShape
+    Left = 126
+    Height = 74
+    Top = 136
+    Width = 77
+    Shape = stStar
+  end
+  object Steuerelement: TShape
+    Left = 0
+    Height = 141
+    Top = 479
+    Width = 144
+    Brush.Color = 1303276
+  end
+  object Button1: TButton
+    Left = 40
+    Height = 48
+    Top = 479
+    Width = 53
+    Caption = '^'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 0
+    Height = 48
+    Top = 523
+    Width = 40
+    Caption = '<'
+    OnClick = Button2Click
+    TabOrder = 1
+  end
+  object Button3: TButton
+    Left = 91
+    Height = 43
+    Top = 528
+    Width = 53
+    Caption = '>'
+    OnClick = Button3Click
+    TabOrder = 2
+  end
+  object Button4: TButton
+    Left = 40
+    Height = 51
+    Top = 568
+    Width = 53
+    Caption = 'v'
+    OnClick = Button4Click
+    TabOrder = 3
+  end
+end
